@@ -142,12 +142,8 @@ const showItem = (i) => {
 
 
 ////////////////////// for search 
-const searchInData = ()=>{
-  let inputValue = $("#search").val()
-  const serchArr = workoutPractices.filter(item => item.inputValue)
-
-  
-
-}
-
-$("#search").change(searchInData)
+// const searchInData = ()=>{
+// //   let inputValue = $("#search").val()
+// //   const serchArr = workoutPractices.filter(item => item.inputValue)
+// // }
+// $("#search").change(searchInData)
